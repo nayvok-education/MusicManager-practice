@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AppImage/bg.png</file>
+        <file>AppImage/refresh.png</file>
+        <file>AppImage/search.png</file>
+    </qresource>
+</RCC>
